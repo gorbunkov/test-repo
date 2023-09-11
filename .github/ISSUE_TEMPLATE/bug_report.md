@@ -8,21 +8,18 @@ assignees: ''
 ---
 
 **Jmix version**
+Jmix framework version where the bug appears.
 
 **Describe the bug**
 A clear and concise description of what the bug is.
 
 **To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Steps to reproduce the behavior.
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
 **Sample**
-An attached project ZIP archive or a link to a GitHub repository with a [minimal, reproducible sample](https://stackoverflow.com/help/minimal-reproducible-example).
+Attach zip archive with the project or provider a link to a GitHub repository with a [minimal, reproducible sample](https://stackoverflow.com/help/minimal-reproducible-example).
 
 Reports that include a sample will take priority over reports that do not.
