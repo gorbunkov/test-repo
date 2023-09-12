@@ -10,5 +10,5 @@ assignees: ''
 **Problem Description**
 A clear and concise description of what the problem is.
 
-**Describe the solution you'd like**
+**Proposed Solution**
 A clear and concise description of what you want to happen.
