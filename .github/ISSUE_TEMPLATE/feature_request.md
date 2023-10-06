@@ -1,14 +1,16 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest an idea for Jmix Framework
 title: ''
 labels: 'state: triage'
 assignees: ''
 
 ---
 
-**Problem Description**
+### Problem Description
+
 A clear and concise description of what the problem is.
 
-**Proposed Solution**
+### Proposed Solution
+
 A clear and concise description of what you want to happen.
