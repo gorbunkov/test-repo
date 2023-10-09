@@ -7,10 +7,6 @@ assignees: ''
 
 ---
 
-### Problem Description
+### Feature description
 
-A description of what the problem is.
-
-### Proposed Solution
-
-A description of what you want to happen.
+Describe a new feature or enhancement you would like to see in Jmix. Explain how you envision the implementation of this feature and use cases where this feature would be beneficial.
