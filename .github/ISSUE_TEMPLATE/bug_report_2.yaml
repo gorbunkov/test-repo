@@ -1,10 +1,6 @@
 name: Bug Report (with form)
 description: Report an issue related to Jmix framework.
 body:
-  - type: markdown
-    attributes:
-      value: |
-        For asking questions, please use Jmix forum: https://forum.jmix.io
   - type: textarea
     id: problem-description
     attributes:
