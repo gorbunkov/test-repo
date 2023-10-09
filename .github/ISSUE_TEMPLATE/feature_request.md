@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for Jmix Framework
 title: ''
-labels: 'state: triage'
+labels: ''
 assignees: ''
 
 ---
