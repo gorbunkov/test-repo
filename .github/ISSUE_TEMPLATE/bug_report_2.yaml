@@ -1,5 +1,5 @@
 name: Bug Report (with form)
-description: Report an issue related to Jmix framework.
+description: Report an issue related to Jmix framework
 body:
   - type: textarea
     id: problem-description
@@ -40,7 +40,7 @@ body:
       description: "Attach a zip-archive with a sample project or provide a link to a GitHub repository with a [minimal, reproducible example](https://stackoverflow.com/help/minimal-reproducible-example). Jmix Studio Toolbar provides an [action](https://docs.jmix.io/jmix/studio/tool-window.html#gradle) for creating a zip-archive from your project. Reports that include a sample will take priority over reports that do not."
       placeholder: "Example: https://githib.com/someuser/some-project"
     validations:
-      required: true
+      required: false
   - type: textarea
     id: environment
     attributes:
