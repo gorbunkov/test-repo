@@ -9,8 +9,8 @@ assignees: ''
 
 ### Problem Description
 
-A clear and concise description of what the problem is.
+A description of what the problem is.
 
 ### Proposed Solution
 
-A clear and concise description of what you want to happen.
+A description of what you want to happen.
