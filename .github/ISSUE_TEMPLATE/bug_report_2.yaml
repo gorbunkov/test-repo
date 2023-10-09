@@ -6,7 +6,7 @@ body:
     attributes:
       label: Description
       description: A description of what the bug is.
-      placeholder: "Screen BBB from the AAA add-on cannot be opened."
+      placeholder: "Screen A from the add-on B cannot be opened."
     validations:
       required: true
   - type: textarea
@@ -14,7 +14,7 @@ body:
     attributes:
       label: Steps to Reproduce
       description: Steps to reproduce the behavior.
-      placeholder: "Example:\n1. Add the AAA add-on to the project.\n2. Run the application\n3. Open the BBB view."
+      placeholder: "Example:\n1. Add the A add-on to the project.\n2. Run the application\n3. Open the B view."
     validations:
       required: true
   - type: textarea
@@ -22,7 +22,7 @@ body:
     attributes:
       label: Current Behavior
       description: Provide a description of what actually happens. If there is an error message in the application log, please provide the full stacktrace.
-      placeholder: "Example: BBB view is not opened and there is an exception in the log."
+      placeholder: "Example: The B view is not opened and there is an exception in the log."
     validations:
       required: true
   - type: textarea
@@ -30,14 +30,14 @@ body:
     attributes:
       label: Expected Behavior
       description: What did you expect to happen instead?
-      placeholder: "Example: BBB view is opened."
+      placeholder: "Example: The B view is opened."
     validations:
       required: true
   - type: textarea
     id: sample-project
     attributes:
       label: Sample Project
-      description: "Attach a zip-archive with a sample project or provide a link to a GitHub repository with a [minimal, reproducible example](https://stackoverflow.com/help/minimal-reproducible-example). Jmix Studio Toolbar provides an [action](https://docs.jmix.io/jmix/studio/tool-window.html#gradle) for creating a zip-archive from your project. Reports that include a sample will take priority over reports that do not."
+      description: "Attach a zip-archive with a sample project or provide a link to a GitHub repository with a [minimal, reproducible example](https://stackoverflow.com/help/minimal-reproducible-example).\nJmix Studio Toolbar provides an [action](https://docs.jmix.io/jmix/studio/tool-window.html#gradle) for creating a zip-archive from your project.\nReports that include a sample will take priority over reports that do not."
       placeholder: "Example: https://githib.com/someuser/some-project"
     validations:
       required: false
