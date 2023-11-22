@@ -11,7 +11,7 @@ assignees: ''
 
 Jmix version: <X.Y.Z>
 
-### Bug description
+### Bug Description
 
 A description of what the bug is.
 
